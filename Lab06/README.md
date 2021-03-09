@@ -7,7 +7,7 @@
 | Student ID      | 040957359                  |
 | Server Name     | Server 93101               |
 | IP Address      | 172.16.93.101              |
-| completion Date | 02/02/2021                 |
+| completion Date | 08/03/2021                 |
 
 
 # Lab06_01
